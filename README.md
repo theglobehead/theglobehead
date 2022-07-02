@@ -11,6 +11,7 @@
 5️⃣ Fun fact about me: I'm learning french 🥖  
 6️⃣ I won the Ventpils IT Challenge in 2021 and got 2nd place in 2020 🥇  
 7️⃣ Here are my [projects](https://github.com/theglobehead/theglobehead/blob/main/projects.md) 🏗️  
+8️⃣ Working at asya.ai
 
 ### my skills and tools 🧰
 
