@@ -25,8 +25,10 @@
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" alt="vscode" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/brave/brave-browser/19d3950bfa2902a8592c02372b6bcafda5d58b8f/docs/source/_static/brave-release.svg" alt="brave" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" width="40" alt="git" height="40" style="max-width: 100%;">
@@ -41,6 +43,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/jquery.svg" alt="C#" width="40" height="40" style="max-width: 100%;">
 
 ### My github stats 📈
 
