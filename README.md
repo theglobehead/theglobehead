@@ -4,7 +4,7 @@
 
 ### Who am I? 🤹
 
-1️⃣ My name is Valters and im currently in the 10th grade 🏫  
+1️⃣ My name is Valters and im currently in the 11th grade 🏫  
 2️⃣ I'm learning backend development in python 🐍  
 3️⃣ I can make a decent website using react ⚛️  
 4️⃣ I do infact know how to center a div 🗿  
